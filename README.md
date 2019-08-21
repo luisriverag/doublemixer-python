@@ -7,6 +7,7 @@ The first mixer knows your output address, the second knows the first mixer's in
 ## Installation
 
 * `pip3 install doublemixer || pip install doublemixer`
+* Make sure a Tor SOCKS proxy is running locally (127.0.0.1:9050)
 
 ## Usage
 

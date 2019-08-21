@@ -29,9 +29,9 @@ setup(
     packages=['doublemixer'],
     install_requires=[
         'aaargh',
-        'bitmix>=0.0.3',
-        'foxmixer',
-        'privcoin>=0.0.3',
+        'bitmix>=0.0.4',
+        'foxmixer>=0.0.4',
+        'privcoin>=0.0.4',
         'pyqrcode'
     ],
     entry_points={
